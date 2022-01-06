@@ -1,0 +1,174 @@
+Seq #,Item #,Description,Qty,Qty Assigned,Location,Issued
+1,28,3M ACH Headset Single Com,25,62,Bin 15 / A-room,62
+2,196,Key Holder,92,16,Bin 34B,16
+3,29,Red-Tip Tech CAT Tourniquet + Holder,10,74,Bin 11,74
+4,112,2nd Chance Int Body Armor,3,0,Issued,0
+5,124,Red Mustang Flotation Jacket Type 3 XL,0,2,Issued,2
+6,303,Prls Handcuffs + Key,9,1,Supply Room,1
+7,104,Glove Pouch (Plthr),3,5,Issued,5
+8,48,Patrol Bag,43,70,Shelve 2 Pos 4,70
+9,93,ESS Eye Pro,28,41,A-room,41
+10,89,Flashlight Ring,3,10,Issued,10
+11,31,Black Mustang PFD,18,37,Bin 21,37
+12,84,Patrol Gloves L,28,25,Bin 27,25
+13,183,5.56mm Indiv Cleaning Kit + Gerber Tool,107,41,Bin 17 / Connex 5,41
+14,181,ACR C-Strobe H20,39,2,Bin 1A,2
+15,120,GH Panel Set (Sizes L/M),6,7,Issued,7
+16,81,Patrol Gloves,44,6,Bin 25,6
+17,180,Ballistic Inserts (Force One),0,1,Issued,1
+18,52,Black Sounders Citation Holder II,17,35,Bin 10,35
+19,25,Cruiser Mate II Doc Holder,30,56,Shelve 1 / Pos 3,56
+20,136,Flashlight Holder,1,0,Issued,0
+21,111,HiVis Jacket M,1,2,Issued,2
+22,57,HJC Helmet XL,5,9,Issued,9
+23,297,Trauma Pad (Generic),2,2,Shelve 1,2
+24,26,Blackhawk Hawkhook Knife,44,72,Bin 12,72
+25,133,Prlss H-cuffs Key + Pouch (Plthr),24,6,Issued,6
+26,6,M16 Magazine Holder,10,24,Bin 10,24
+27,46,2nd Chance Body Armor,17,25,Shelve 2 Pos #2,25
+28,96,2nd Chance Body Armor XL,0,1,Issued,1
+29,195,2nd Chance Body Armor S,1,0,Shelve 2 Pos #2,0
+30,66,HiVis Jacket L,2,5,Shelve #2,5
+31,121,Flotation Jacket (No Size),0,1,Issued,1
+32,54,Body Armor IIIA Protection (Ext),0,11,Issued,11
+33,140,OC Pouch (Plthr),29,1,Issued,1
+34,94,Spec-OPS Helmet,3,6,Issued,6
+35,138,Body Armor Panels,1,5,Issued,5
+36,105,Flashlight Pouch (Plthr),2,0,Issued,0
+37,91,Flashlight Pouch,4,9,Issued,9
+38,125,Double Mag Pouch (Plthr),2,8,Issued,8
+39,141,Baton (ASP) + Holder (Plthr),9,1,Issued,1
+40,22,Baton (ASP) + Holder,23,54,Bin 7,54
+41,102,Streamlight ProTAC Flashlight,41,16,Issued,16
+42,151,HJC Helmet XXL,1,0,Connex 5,0
+43,86,Duty Belt S (Nylon),3,0,Bin 47,0
+44,119,ZAN Helmet Liner,8,2,Issued,2
+45,101,Silent Key Hld (Plthr),44,6,Issued,6
+46,92,Body Armor - Fr Panel,1,0,Issued,0
+47,285,Base Layer Bottom XL,0,1,Issued,1
+48,284,Base Layer Bottom M,0,1,Issued,1
+49,58,Safety Vest,65,30,Bin 18,30
+50,99,HiVis Jacket 2XL,1,4,Issued,4
+51,2,Radio Pouch,44,70,Bin 5,70
+52,63,OC Pouch,16,4,Bin 28,4
+53,50,Belt Keepers (4),39,32,Bin 21,32
+54,174,Belt Keepers (4),12,1,Bin 24,1
+55,53,Crossbow Eye Pro,2,5,Issued,5
+56,118,ZAN Balaclava,8,2,Issued,2
+57,55,HT Trauma Plate,18,30,Bin 30,30
+58,90,Belt Liner,6,9,Issued,9
+59,37,Spec-OPS Helmet S,0,0,Issued,0
+60,40,Spec-OPS Helmet XL,4,14,Shelve 1 Pos 11,14
+61,39,Spec-OPS Helmet L,2,34,Shelve 1 Pos 10,34
+62,38,Spec-OPS Helmet M,3,20,Shelve 1 Pos 10,20
+63,36,IEC Type A AC Charger Cord,26,41,Bin 40,41
+64,23,Strion LED Flshl,9,48,Bin 9,48
+65,137,Prls HCuffs,18,2,Issued,2
+66,32,Life CPR Mask,31,74,Bin 17,74
+67,126,Belt Keepers (Plthr),0,5,Issued,5
+68,11,Glove Pouch,89,54,Bin 6,54
+69,75,GH Body Armor Int S 1812/1814 + Panels,3,1,Shelve 1,1
+70,184,GH Body Armor Int 2XL 2613/2615,0,1,Issued,1
+71,192,GH Body Armor Int U1611/1612 + Panels,2,0,Shelve 1,0
+72,259,GH Body Armor Int no panels,0,1,Issued,1
+73,191,GH Body Armor Int L 2213/2215 + Panels,2,4,Shelve 1,4
+74,188,GH Body Armor Int M 2013/2015 No Panels,8,0,Shelve 1 Bin 30,0
+75,74,GH Body Armor Int M 2013/2015 + Panels,7,5,Shelve 1,5
+76,114,GH Body Armor Int,10,5,Issued,5
+77,73,GH Body Armor Int L 2213/2215 No Panels,8,4,Shelve 1 Bin 30,4
+78,190,GH Body Armor Int S 1812/1814 No Panels,6,0,Shelve 1 Bin 30,0
+79,189,GH Body Armor Int XL 2413/2415 No Panels,3,0,Bin 30,0
+80,258,GH Body Armor Int XL 2413/2415 + Panels,2,0,Shelve 1,0
+81,110,Maglight Flashlight,0,2,Issued,2
+82,45,GH Trauma Pad,10,11,Bin 30,11
+83,143,Baton (Mon),11,1,Bin 4,1
+84,130,Stearns PFD 1055 FJ Windward (No Size),0,3,Issued,3
+85,113,Stearns PFD 1055 FJ Windward XXXL,2,3,Connex 1,3
+86,83,Patrol Gloves M,40,26,Bin 26,26
+87,13,M17 Holster System R,11,46,Bin 23,46
+88,14,M17 Holster System L,2,8,Bin 23,8
+89,88,Strion Flashlight,-1,17,Issued,17
+90,115,Holster Level 2,0,1,Issued,1
+91,56,OTTO PTT,10,2,A-Room,2
+92,9,Safariland M9 Holster R,50,63,Bin 3,63
+93,71,Safariland M9 Holster R (Plthr),45,5,Supp Room,5
+94,15,Safariland M9 Holster L,7,5,Bin 14,5
+95,72,Safariland M9 Holster L (Plthr),10,2,Supply Room,2
+96,62,Duty Belt  lthr + Belt Liner (Nylon),1,3,Issued,3
+97,301,Body Armor Point Blank FoCBA - Type 1 (XL),30,5,Connex 4/5,5
+98,300,Body Armor Point Blank FoCBA - Type 1 (S),6,4,Supply Room,4
+99,302,Body Armor Point Blank FoCBA - Type 1 (2XL),32,3,Supply Room,3
+100,287,Rothco Black Radio Pouch,7,0,Issued,0
+101,80,Silent Key Hld,61,20,Issued,20
+102,95,Duty Belt (Plthr),4,8,Issued,8
+103,69,APR/CBRN Respirator S,7,3,Bin 16,3
+104,68,APR/CBRN Respirator M,4,14,Bin 16,14
+105,67,APR/CBRN Respirator L,6,12,Issued,12
+106,60,HJC Helmet M,14,5,Connex 5,5
+107,51,2016 Em Resp Guide,70,54,Bin 44,54
+108,282,Red Tip Tourniquet,-1,2,Issued,2
+109,139,Mustang Float Jacket (No Size),0,3,Issued,3
+110,109,Mustang Dry Suit MR,1,1,Shelve 2,1
+111,116,Mustang Dry Suit XL,0,1,Issued,1
+112,135,Mustang Dry Suit,1,2,Bin 43,2
+113,35,Strion Charger AC/DC USB,28,44,Bin 40,44
+114,185,Face Shield DeLuxe Part # 5145,95,32,Bin 6B : Connex 4 (8bx),32
+115,76,Body Armor External IIIA,2,3,Issued,3
+116,98,H-Cuff Case,12,1,Issued,1
+117,3,Baton (Mon) + Holder,7,22,Bin 3,22
+118,87,Baton (Mon) + Holder (Plthr),5,3,Issued,3
+119,194,Trauma Plate 6H Model 6110-1,6,0,Bin 30,0
+120,123,Pepper Spray,25,0,Misc,0
+121,305,Mag-TAC LED Flashlight,12,0,Supp Room,0
+122,145,Baton Holder (ASP),24,1,Shelve 1 / Pos 7,1
+123,257,9mm OTIS Cleaning Kit PK-L-18FI,21,12,Bin 31,12
+124,77,HiVis Jacket,10,24,Shelve 2,24
+125,260,Mustang PFD MJ5244 L,0,1,Issued,1
+126,247,Mustang PFD MJ5244 XL,0,1,Issued,1
+127,27,Listen Only Earpiece,25,6,Bin 13,6
+128,108,Skull Cap,74,1,Issued,1
+129,59,HJC Helmet L,5,8,Connex 5,8
+130,16,Leland Strobe Light,35,58,Bin 16,58
+131,43,GH Body Armor Ext L 2213/2215 + Panels,1,8,Issued,8
+132,41,GH Body Armor Ext S 1812/1814 No Panels,1,0,Shelve 1 Pos 4,0
+133,44,GH Body Armor Ext XL 2413/2415 + Panels,4,5,Bin 30,5
+134,187,GH Body Armor Ext L 2213/2215 No Panels,3,4,Shelve 1,4
+135,152,GH Body Armor Ext,0,2,Issued,2
+136,42,GH Body Armor Ext M 2013/2015 + Panels,1,7,Bin 30,7
+137,186,GH Body Armor Ext M 2013/2015 No Panels,2,1,Bin 30,1
+138,299,GH Body Armor Ext S 1812/1814  + Panels,0,1,Issued,1
+139,142,GH Body Armor Ext 2XL 2613/2615,0,2,Issued,2
+140,100,Duty Belt (Lthr),0,1,Issued,1
+141,78,Ear Piece,51,56,Bin 15,56
+142,34,Protector P16 Baton,13,10,Bin 49,10
+143,82,Patrol Gloves S,21,6,Bin 26,6
+144,97,Duty Belt M (Nylon),-1,4,Issued,4
+145,106,Blk Nylon Bpck (Boat Bag),2,12,Issued,12
+146,18,Prlss H-cuffs  w/Key + Pouch,2,67,Bin 2,67
+147,193,Generic Trauma Plate,3,1,Bin 30,1
+148,122,Mustang Surv Jacket L,1,1,Issued,1
+149,117,Mustang Surv Jacket XXL,0,3,Issued,3
+150,70,CBRN Canister PN 10046570,65,28,Supp 245,28
+151,12,Double Magazine Pouch,41,62,Bin 1,62
+152,283,IWCK (Improved Weapons Cleaning Kit),17,24,Connex 4,24
+153,61,HJC Helmet S,4,0,Connex 5,0
+154,128,Tier Stacked Mag Pouch (M4),77,26,Shelve #2 Pos 3,26
+155,85,Patrol Gloves XL,30,0,Bin 28,0
+156,65,ESS Eye Pro Goggles,6,12,Issued,12
+157,79,3M PTT Adapter,4,43,Issued,43
+158,146,Duty Belt incl Kprs + Liner M,10,13,Bin 22,13
+159,148,Duty Belt incl Kprs + Liner XL,7,1,Bin 43,1
+160,33,Duty Belt incl Kprs + Liner,23,16,Issued,16
+161,147,Duty Belt incl Kprs + Liner L,24,3,Bin 23,3
+162,182,Mustang HIT Inflatable PFD (MD3183),42,7,Bin 1A,7
+163,47,Duty Belt (Nylon),32,32,Issued,32
+164,286,Balaclava,41,1,Issued,1
+165,103,Radio Pouch (Plthr),43,7,Issued,7
+166,21,Lanyard (Pistol),34,13,Bin 7,13
+167,280,Road Vests (bx),3,0,Connex 4 - back R corner,0
+168,129,Prls HCuffs + Pouch,22,3,Issued,3
+169,144,Baton (ASP),0,1,Issued,1
+170,49,Pepper Spray + OC Pouch,29,71,Bin 10,71
+171,132,Pepper Spray + OC Pouch (Plthr),27,3,Issued,3
+172,127,9mm Pouch Black (2),43,32,Bin 29,32
+173,24,HiVis Jacket XL,6,10,Bin 8,10
